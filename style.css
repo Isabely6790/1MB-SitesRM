@@ -1,8 +1,6 @@
-h1 {
+h1{
 text-align:"center"
-}
-
-h1 {background-color: darkgreen
+background-color: darkgreen
 }
 
 
@@ -11,3 +9,5 @@ img {
   width: 50%}
 
 p { 
+  font-size: 30pix;
+}
